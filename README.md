@@ -1,0 +1,1 @@
+In this project, I Improved customer experience, and increased revenue by analyzing diwali sales data. Here I Performed exploratory data analysis (EDA) using Pandas, Matplotlib, and Seaborn libraries.
